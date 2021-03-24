@@ -1,0 +1,399 @@
+FAO Commodity,FAO Code,Primary Product Extraction Rate,FAO Calorie Content (kcal/100 gram),KCAL_PER_KG
+Wheat,15,1.0,334,3340
+Flour of Wheat,16,0.79,364,3640
+Bran of Wheat,17,0.18,213,2130
+Macaroni,18,0.79,367,3670
+Germ of Wheat,19,0.20,382,3820
+Bread,20,0.91,249,2490
+Bulgur,21,0.95,345,3450
+Pastry,22,0.91,369,3690
+Starch of Wheat,23,0.51,362,3620
+Wheat Gluten,24,0.095,380,3800
+Wheat-Fermented Beverages,26,0.95,60,600
+"Rice, paddy",27,1.0,280,2800
+Rice Husked,28,0.77,357,3570
+Milled/Husked Rice,29,0.69,360,3600
+Rice - total (Rice milled equivalent),30,0.67,360,3600
+Rice Milled,31,0.67,360,3600
+Rice Broken,32,0.54,360,3600
+"Rice, Gluten",33,0.051,380,3800
+Starch of Rice,34,0.54,362,3620
+Bran of Rice,35,0.080,276,2760
+Rice bran oil,36,0.011,884,8840
+Cake Rice Bran,37,0.051,NA,NA
+Rice Flour,38,0.57,366,3660
+Rice-Fermented Beverages,39,1.78,133,1330
+Breakfast Cereals,41,0.85,389,3890
+Barley,44,1.0,332,3320
+Pot Barley,45,0.72,348,3480
+Barley Pearled,46,0.32,346,3460
+Bran of Barley,47,0.19,NA,NA
+Barley Flour and Grits,48,0.26,343,3430
+Malt,49,0.73,368,3680
+Malt Extract,50,0.58,367,3670
+Beer of Barley,51,4.8,49,490
+Maize,56,1.0,356,3560
+Germ of Maize,57,0.060,373,3730
+Flour of Maize,58,0.82,363,3630
+Bran of Maize,59,0.11,NA,NA
+Maize oil,60,0.027,884,8840
+Cake of Maize,61,0.031,NA,NA
+Maize Gluten,63,0.082,380,3800
+Starch of Maize,64,0.62,362,3620
+Beer of Maize,66,5.5,40,400
+Popcorn,68,1,356,3560
+Rye,71,1.0,319,3190
+Flour of Rye,72,0.80,341,3410
+Bran of Rye,73,0.17,NA,NA
+Oats,75,1.0,385,3850
+"Oats, Rolled",76,0.53,384,3840
+Bran of Oats,77,0.20,NA,NA
+Millet,79,1.0,340,3400
+Flour of Millet,80,0.86,340,3400
+Bran of Millet,81,0.10,NA,NA
+Beer of Millet,82,4.5,40,400
+Sorghum,83,1.0,343,3430
+Flour of Sorghum,84,0.90,343,3430
+Bran of Sorghum,85,0.080,NA,NA
+Beer of Sorghum,86,4.9,40,400
+Buckwheat,89,1.0,330,3300
+Flour of Buckwheat,90,0.75,334,3340
+Bran of Buckwheat,91,0.20,NA,NA
+Quinoa,92,1.0,342,3420
+Fonio,94,1.0,338,3380
+Flour of Fonio,95,0.80,355,3550
+Bran of Fonio,96,0.15,NA,NA
+Triticale,97,1.0,327,3270
+Flour of Triticale,98,0.75,341,3410
+Bran of Triticale,99,0.23,NA,NA
+Canary seed,101,1.0,388,3880
+Mixed grain,103,1.0,340,3400
+Flour of Mixed Grain,104,0.80,364,3640
+Bran of Mixed Grain,105,0.16,NA,NA
+"Cereals, nes",108,1.0,340,3400
+Infant Food,109,-9999,368,3680
+Wafer,110,0.91,439,4390
+Flour of Cereals nes,111,0.75,NA,NA
+Bran of Cereals nes,112,0.16,NA,NA
+"Cereal Preparations, Nes",113,-9999,NA,NA
+"Food Preparations of Flour, Meal or Malt Extract",115,-9999,41,410
+Potatoes,116,1.0,67,670
+Potatoes Flour,117,0.20,355,3550
+Frozen Potatoes,118,0.50,73,730
+Starch of Potatoes,119,0.19,362,3620
+Potato Offals,120,0.48,NA,NA
+Tapioca of Potatoes,121,0.16,362,3620
+Sweet potatoes,122,1.0,92,920
+Cassava,125,1.0,109,1090
+Flour of Cassava,126,0.24,338,3380
+Tapioca of Cassava,127,0.16,362,3620
+Cassava Dried,128,0.28,212,2120
+Cassava Starch,129,0.20,362,3620
+Yautia (Cocoyam),135,1.0,109,1090
+Taro (Cocoyam),136,1.0,86,860
+Yams,137,1.0,101,1010
+Roots and tubers nes,149,1.0,91,910
+Flour of Roots and Tubers nes,150,0.20,282,2820
+"Roots and Tubers, Dried nes",151,0.24,282,2820
+"Fructose, Chemically Pure",154,-9999,375,3750
+"Maltose, Chemically Pure",155,-9999,375,3750
+Sugar cane,156,1.0,30,300
+Sugar beets,157,1.0,70,700
+Cane Sugar,158,0.11,NA,NA
+Beet Sugar,159,0.14,NA,NA
+Maple Sugar and Syrups,160,-9999,348,3480
+Sugar crops nes,161,1.0,390,3900
+Sugar Raw Centrifugal*,162,0.13,373,3730
+"Sugar, Non-Centrifugal",163,0.090,351,3510
+Sugar Refined*,164,0.094,387,3870
+Molasses*,165,0.040,232,2320
+Other Fructose and Syrup,166,-9999,298,2980
+Sugar nes,167,-9999,310,3100
+Sugar Confectionery,168,0.094,310,3100
+Beet Pulp,169,0.056,288,2880
+Bagasse,170,0.25,NA,NA
+Sugar flavoured,171,0.094,310,3100
+Glucose and Dextrose,172,0.64,368,3680
+Isoglucose,175,0.56,318,3180
+"Beans, dry",176,1.0,341,3410
+"Broad beans, dry",181,1.0,343,3430
+"Peas, dry",187,1.0,346,3460
+"Chick-peas, dry",191,1.0,358,3580
+"Cow peas, dry",195,1.0,342,3420
+Pigeon peas,197,1.0,343,3430
+"Lentils, dry",201,1.0,346,3460
+Bambara beans,203,1.0,365,3650
+Vetches,205,1.0,325,3250
+Lupins,210,1.0,390,3900
+Pulses nes,211,1.0,340,3400
+Flour of Pulses,212,0.72,340,3400
+Bran of Pulses,213,0.23,NA,NA
+Brazil Nuts,216,1.0,315,3150
+Cashew Nuts,217,1.0,252,2520
+Chestnuts,220,1.0,158,1580
+Almonds,221,1.0,236,2360
+Walnuts,222,1.0,289,2890
+Pistachios,223,1.0,289,2890
+Kolanuts,224,1.0,355,3550
+Hazelnuts (Filberts),225,1.0,291,2910
+Areca Nuts (Betel),226,1.0,245,2450
+"Brazil nuts, shelled",229,0.44,656,6560
+"Cashew nuts, shelled",230,0.24,574,5740
+Almonds shelled,231,0.40,589,5890
+"Walnuts, shelled",232,0.42,642,6420
+"Hazelnuts, shelled",233,0.40,632,6320
+Nuts nes,234,1.0,262,2620
+"Nuts, prepared (exc. groundnuts)",235,0.43,615,6150
+Soybeans,236,1.0,335,3350
+Soybean oil,237,0.18,884,8840
+Cake of Soybeans,238,0.79,261,2610
+Soya Sauce,239,3.5,56,560
+Soya Paste,240,4.5,114,1140
+Soya Curd,241,3.8,58,580
+"Groundnuts, in shell",242,1.0,414,4140
+"Groundnuts, Shelled",243,0.70,567,5670
+Oil of Groundnuts,244,0.30,884,8840
+Cake of Groundnuts,245,0.38,363,3630
+Prepared Groundnuts,246,0.56,580,5800
+Peanut Butter,247,0.48,589,5890
+Coconuts,249,1.0,184,1840
+"Coconuts, Desiccated",250,0.20,660,6600
+Copra,251,0.21,636,6360
+Oil of Coconuts,252,0.13,884,8840
+Cake of Copra,253,0.076,NA,NA
+[Oil palm fruit],254,1.0,158,1580
+Palm kernels,256,0.060,514,5140
+Oil of palm,257,0.19,884,8840
+Oil of Palm Kernel,258,0.028,884,8840
+Cake of Palm Kernel,259,0.031,NA,NA
+Olives,260,1.0,175,1750
+"Oil of Olives, Virgin",261,0.20,884,8840
+"Olives, Preserved",262,0.80,109,1090
+Karite Nuts (Sheanuts),263,1.0,579,5790
+Butter of Karite Nuts^,264,0.26,711,7110
+Castor Beans,265,1.0,NA,NA
+Oil of Castor Beans,266,0.40,884,8840
+Sunflower seed,267,1.0,308,3080
+Sunflower oil,268,0.41,884,8840
+Sunflower Cake,269,0.47,261,2610
+Rapeseed or colza seed,270,1.0,494,4940
+Oil of Rapeseed or Canola oil,271,0.38,884,8840
+Cake of Rapeseed,272,0.60,NA,NA
+Olive Residues,273,0.32,NA,NA
+Oil of Olive Residues,274,0.016,884,8840
+Tung Nuts,275,1.0,NA,NA
+Oil of Tung Nuts*,276,0.4,884,8840
+Safflower seed,280,1.0,314,3140
+Oil of Safflower Seed,281,0.35,884,8840
+Cake of Safflower Seed,282,0.57,NA,NA
+Sesame seed,289,1.0,573,5730
+Oil of Sesame Seed,290,0.43,884,8840
+Cake of Sesame Seed,291,0.51,376,3760
+Mustard seed,292,1.0,469,4690
+Oil of Mustard Seed,293,0.36,884,8840
+Cake of Mustard Seed,294,0.60,NA,NA
+Flour of Mustard Seed,295,0.64,469,4690
+Poppy seed,296,1.0,533,5330
+Oil of Poppy Seed,297,0.4,884,8840
+Cake of Poppy Seed,298,0.6,NA,NA
+Melonseed,299,1.0,400,4000
+Vegetable tallow,306,-9999,884,8840
+Stillingia oil,307,-9999,884,8840
+Kapok fruit,310,1.0,NA,NA
+Kapokseed in shell,311,0.66,NA,NA
+"Kapokseed, shelled",312,0.46,NA,NA
+Oil of Kapok,313,0.092,884,8840
+Cake of Kapok,314,0.37,NA,NA
+[Seed Cotton],328,1.0,NA,NA
+Cottonseed,329,0.63,253,2530
+Oil of Cottonseed,331,0.10,884,8840
+Cake of Cottonseed,332,0.32,NA,NA
+Linseed,333,1.0,498,4980
+Oil of Linseed,334,0.35,884,8840
+Cake of Linseed,335,0.63,NA,NA
+Hempseed,336,1.0,NA,NA
+Oil of Hempseed,337,0.35,884,8840
+Cake of Hempseed,338,0.57,NA,NA
+Oilseeds nes,339,1.0,387,3870
+Oil of Vegetable Origin nes,340,0.35,884,8840
+Cake of Oilseeds nes,341,0.57,NA,NA
+Flour of Oilseeds,343,0.64,NA,NA
+Cabbages,358,1.0,19,190
+Artichokes,366,1.0,20,200
+Asparagus,367,1.0,12,120
+Lettuce and chicory,372,1.0,12,120
+Spinach,373,1.0,16,160
+Cassava leaves,378,-9999,53,530
+"Tomatoes, fresh",388,1.0,17,170
+"Juice of Tomatoes, Concentrated ",389,0.16,76,760
+"Juice of Tomatoes, Single strength",390,0.64,17,170
+Paste of Tomatoes,391,0.20,84,840
+"Tomatoes, Peeled (O/T vinegar)",392,0.64,19,190
+Cauliflowers and broccoli,393,1.0,9,90
+"Pumpkins, Squash, Gourds",394,1.0,19,190
+Cucumbers and Gherkins,397,1.0,13,130
+Eggplants,399,1.0,21,210
+"Chillies & Peppers, Green",401,1.0,25,250
+"Onions & Shallots, Green",402,1.0,24,240
+"Onions, Dry",403,1.0,31,310
+Garlic,406,1.0,130,1300
+"Leeks, other alliaceous vegetables",407,1,37,370
+"Beans, Green",414,1.0,50,500
+"Peas, Green",417,1.0,31,310
+"Broad Beans, Green",420,1.0,23,230
+String Beans,423,1.0,27,270
+Carrot,426,1.0,38,380
+Okra,430,1.0,31,310
+Green Corn (Maize),446,1.0,56,560
+Sweet corn frozen,447,0.27,54,540
+Sweet corn prep or preserved,448,0.40,77,770
+Mushrooms,449,1.0,24,240
+Dried Mushrooms,450,0.26,296,2960
+Canned Mushrooms,451,0.88,24,240
+Chicory Roots,459,1.0,60,600
+Carobs,461,1.0,111,1110
+"Vegetables, Fresh n.e.s.",463,1.0,22,220
+"Vegetables, dried nes",464,0.20,176,1760
+"Vegetables, canned nes",465,0.90,36,360
+Juice of Vegetables nes,466,0.60,19,190
+"Vegetables, dehydrated",469,0.15,341,3410
+Vegetables in vinegar,471,0.80,29,290
+"Vegetables, preserved nes",472,0.80,38,380
+"Vegetables, frozen",473,0.80,71,710
+"Vegetables, temporarily preserved",474,0.90,65,650
+"Vegetables, preserved, frozen",475,0.90,22,220
+"Vegetables, homogenized preparations",476,-9999,41,410
+Bananas,486,1.0,60,600
+Plantains,489,1.0,75,750
+Oranges,490,1.0,34,340
+Juice of Orange,491,0.44,42,420
+"Orange Juice, Concentrated",492,0.10,159,1590
+"Tangerines, mandarins, clementines, satsumas",495,1.0,32,320
+"Juice of Tangerine, Mandarin and Clementin",496,0.36,43,430
+Lemons and limes,497,1.0,15,150
+Juice of Lemon,498,0.39,22,220
+"Lemon Juice, Concentrated",499,0.10,116,1160
+Grapefruit and pomelo,507,1.0,16,160
+Juice of Grapefruit,509,0.47,39,390
+"Grapefruit Juice, Concentrated",510,0.14,146,1460
+Citrus fruit nes,512,1.0,26,260
+Juice of Citrus Fruit nes,513,0.42,48,480
+"Citrus Juice, Concentrated nes",514,0.11,157,1570
+Apples,515,1.0,48,480
+Fermented beverages nes*,517,0.68,47,470
+Apple Juice,518,0.52,47,470
+"Apple Juice, Concentrated",519,0.18,166,1660
+Pears,521,1.0,54,540
+Quinces,523,1.0,35,350
+Apricots,526,1.0,45,450
+"Apricots, Dried",527,0.29,238,2380
+Sour Cherries,530,1.0,45,450
+Cherries,531,1.0,65,650
+Peaches and Nectarines,534,1.0,33,330
+Plums and sloes,536,1.0,52,520
+Plums dried (prunes),537,0.35,208,2080
+Juice of plum,538,0.66,71,710
+"Juice of plum, concentrated",539,0.08,215,2150
+Stone Fruit other,541,1.0,52,520
+Pome fruit nes,542,1,48,480
+Strawberries,544,1.0,28,280
+Raspberries,547,1.0,47,470
+Gooseberries,549,1.0,44,440
+Currants,550,1.0,59,590
+Blueberries,552,1.0,120,1200
+Cranberries,554,1.0,47,470
+Berries nes,558,1.0,49,490
+Grapes,560,1.0,53,530
+Raisins,561,0.25,299,2990
+Juice of Grape,562,0.75,61,610
+Must of Grape,563,0.86,61,610
+Wine,564,0.70,68,680
+"Vermouths, etc.",565,0.70,137,1370
+Marc of Grape,566,0.20,NA,NA
+Watermelons,567,1.0,17,170
+Cantaloupes & other Melons,568,1.0,17,170
+Figs,569,1.0,73,730
+"Figs, Dried",570,0.35,253,2530
+Mangoes,571,1.0,45,450
+Avocados,572,1.0,119,1190
+Pineapples,574,1,26,260
+"Pineapples, Canned",575,0.52,78,780
+Juice of Pineapples,576,0.20,56,560
+Dates,577,1.0,156,1560
+"Juice of Pineapples, Concentrated",580,0.016,179,1790
+Juice of Mango,583,0.10,62,620
+Mango Pulp,584,0.55,65,650
+Persimmons,587,1.0,82,820
+Cashewapple,591,1.0,43,430
+Kiwi Fruit,592,1.0,52,520
+Papayas,600,1.0,26,260
+"Fruit, tropical (fresh) nes",603,1.0,41,410
+"Fruit, tropical (Dried) nes",604,-9999,267,2670
+"Fruit, fresh nes",619,1.0,45,450
+"Fruit, dried nes",620,-9999,267,2670
+"Fruit, prepared nes",623,-9999,36,360
+Flour of Fruits,624,-9999,346,3460
+"Fruit, Nuts, Peel, Sugar Preserved",625,-9999,212,2120
+"Homogenized Cooked Fruit, Prepared",626,-9999,59,590
+"Beverages, non alcoholic",633,-9999,39,390
+"Beverages, distilled alcoholic",634,-9999,295,2950
+Maize for forage and silage,636,1.0,NA,NA
+Sorghum for forage,637,1,NA,NA
+Grasses nes for forage,639,1.0,NA,NA
+Clover for forage,640,1.0,NA,NA
+Alfalfa for forage,641,1.0,NA,NA
+Green oilseeds for silage,642,1.0,NA,NA
+Legumes for silage,643,1.0,NA,NA
+Cabbage for fodder,644,1.0,19,190
+Turnips for fodder,646,1.0,NA,NA
+Beets for fodder,647,1.0,NA,NA
+Carrots for fodder,648,1.0,NA,NA
+Swedes for fodder,649,1.0,NA,NA
+Forage Products nes,651,1.0,NA,NA
+"Vegetables, roots fodder nes",655,1.0,NA,NA
+Coffee green,656,1.0,47,470
+"Coffee, Roasted",657,0.80,56,560
+Coffee Substitutes,658,0.70,56,560
+Coffee Extracts,659,0.34,129,1290
+"Coffee, husks and skins",660,NA,NA,NA
+Cocoa beans,661,1.0,414,4140
+Cocoa paste/liquor,662,0.80,472,4720
+Cocoa husks/shells,663,0.20,NA,NA
+Cocoa butter,664,0.38,711,7110
+Cocoapowder and cake,665,0.42,261,2610
+Chocolate products,666,2.0,393,3930
+Tea,667,1.0,40,400
+Mate,671,1.0,40,400
+Extracts of Tea and Mate,672,-9999,18,180
+Tea nes,674,-9999,40,400
+Hops,677,1.0,NA,NA
+Pepper,687,1.0,276,2760
+Pimento,689,1.0,318,3180
+Vanilla,692,1.0,NA,NA
+Cinnamon (Canella),693,1.0,261,2610
+Cloves,698,1.0,323,3230
+"Nutmeg, Mace and Cardamons",702,1.0,525,5250
+"Anise, badian, fennel",711,1.0,345,3450
+Ginger,720,1.0,347,3470
+Spices nes,723,1.0,337,3370
+"Peppermint, Spearmint",748,1.0,NA,NA
+"Pyrethrum, Dried Flowers",754,1.0,NA,NA
+Cotton Lint,767,0.35,NA,NA
+"Cotton, Carded or Combed",768,0.35,NA,NA
+Cotton Waste,769,0.06,NA,NA
+Cotton Linters,770,0.05,NA,NA
+Flax fibre and tow,773,1.0,NA,NA
+Hemp fibre and tow,777,1.0,NA,NA
+Kapok fibre,778,0.33,NA,NA
+Jute,780,1.0,NA,NA
+Jute-Like Fibers,782,1.0,NA,NA
+Ramie,788,1.0,NA,NA
+Sisal,789,1.0,NA,NA
+Agave fibres nes,800,1.0,NA,NA
+Abaca manila hemp,809,1.0,NA,NA
+Coir,813,1.0,NA,NA
+Fibre crops nes,821,1.0,NA,NA
+Tobacco leaves,826,1.0,NA,NA
+Natural Rubber,836,1.0,NA,NA
+Natural Gums,839,1.0,NA,NA
+Alfalfa meal and pellets,862,0.79,265,2650

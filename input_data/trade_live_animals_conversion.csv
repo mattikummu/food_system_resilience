@@ -1,0 +1,17 @@
+FAO_trade_item,Item Code,Livestock_yield_item,FBS_item
+Chickens,1057,"Meat, chicken",Poultry Meat
+Horses,1096,"Meat, horse","Meat, Other"
+Buffaloes,946,"Meat, buffaloes",Bovine Meat
+Turkeys,1079,"Meat, turkey",Poultry Meat
+Cattle,866,"Meat, cattle",Bovine Meat
+Goats,1016,"Meat, goats",Mutton & Goat Meat
+Sheep,976,"Meat, sheep",Mutton & Goat Meat
+Pigs,1034,"Meat, pig",Pigmeat
+Animals live nes,1171,"Meat, nes","Meat, Other"
+Asses,1107,"Meat, ass","Meat, Other"
+Ducks,1068,"Meat, duck",Poultry Meat
+Mules,1110,"Meat, mule","Meat, Other"
+Rabbits and hares,1140,"Meat, rabbit","Meat, Other"
+"Camelids, other",1157,"Meat, other camelids","Meat, Other"
+Camels,1126,"Meat, camel","Meat, Other"
+"Rodents, other",1150,"Meat, other rodents","Meat, Other"

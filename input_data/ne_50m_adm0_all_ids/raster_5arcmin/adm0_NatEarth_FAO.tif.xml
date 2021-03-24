@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{A4123089-4E63-493B-AFFF-6C12B2DB0BD7}</MetaID><CreaDate>20160311</CreaDate><CreaTime>11083700</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="PolygonToRaster_2" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20160311" Time="110837">PolygonToRaster adm0_NatEarth_all_ids fao_id V:\GIS\adm0_shapefiles\ne_50m_adm0_all_ids\raster_5arcmin\adm0_NatEarth_FAO.tif CELL_CENTER fao_id 0.083333</Process></lineage></DataProperties></Esri></metadata>
