@@ -173,14 +173,12 @@ for (i_data in 1:4) {
   
   # data to numeric
   
+  d_trade_dep <- mutate(d_trade_dep, across(.cols = yr1989:yr2013, as.numeric))
+  d_div_prod <- mutate(d_div_prod, across(.cols = yr1989:yr2013, as.numeric))
+  d_div_supply <- mutate(d_div_supply, across(.cols = yr1989:yr2013, as.numeric))
+  d_import_partners_3yr <- mutate(d_import_partners_3yr, across(.cols = yr1989:yr2013, as.numeric))
   
-  id = c(1,5:ncol(d_trade_dep)) # column ids to change
   
-  d_trade_dep[id] = data.matrix(d_trade_dep[id])
-  #sapply(d_trade_dep, class)
-  d_div_prod[id] = data.matrix(d_div_prod[id])
-  d_div_supply[id] = data.matrix(d_div_supply[id])
-  d_import_partners_3yr[id] = data.matrix(d_import_partners_3yr[id])
   
   
   # normalise between 0 and 1, by using 2.5 and 97.5 percentiles

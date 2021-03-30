@@ -10,7 +10,7 @@ myTrend_MIX<-function(dt,n_boot,id_col,start_column){
   
   library(pastecs)
   
-  source("/Users/mkummu/Documents/work/publications/kummu_al_resilience_trade/resilience_trade/script_funct/myFun_Bootstrap_MIX_v2.R")
+  source("script_funct/myFun_Bootstrap_MIX_v2.R")
   
   set.seed(21)
   
